@@ -35,6 +35,10 @@ $portrait-image-small: url(../img/portrait_small.jpg);
     height: 75vh;
     transform: translate3d(-100%, 0, 0);
     font-size: 24px;
+
+    .nav-item {
+      transform: translate3d(-100%, 0, 0);
+    }
   }
 
   .menu-branding {
