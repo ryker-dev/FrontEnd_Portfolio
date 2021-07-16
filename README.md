@@ -1,5 +1,6 @@
 # FrontEnd_Portfolio
 **This repository contains the learning diary**
+
 Tutorial project made by Emilio Pizzuti.
 
 ## Running the project
