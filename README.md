@@ -1,7 +1,5 @@
 # FrontEnd_Portfolio
-**This repository contains the learning diary**
-
-Tutorial project made by Emilio Pizzuti.
+This is a Traversy Media tutorial project completed for a university course.
 
 ## Running the project
 
